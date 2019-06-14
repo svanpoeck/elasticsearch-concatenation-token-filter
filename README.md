@@ -9,7 +9,7 @@ Token filter plug-in for combining tokens in Elasticsearh.
 Get the source code from the repository.
 
 ```
-git clone https://github.com/ryohashimoto/elasticsearch-concatenation-token-filter.git
+git clone https://github.com/svanpoeck/elasticsearch-concatenation-token-filter.git
 ```
 
 To check out the tag for Elasticsearch 6.8.0
