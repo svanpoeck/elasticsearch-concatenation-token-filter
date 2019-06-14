@@ -12,10 +12,10 @@ Get the source code from the repository.
 git clone https://github.com/ryohashimoto/elasticsearch-concatenation-token-filter.git
 ```
 
-To check out the tag for Elasticsearch 6.5.0
+To check out the tag for Elasticsearch 6.8.0
 
 ```
-git checkout 6.5.0.1
+git checkout --tag 6.8.0
 ```
 
 To create the package.
