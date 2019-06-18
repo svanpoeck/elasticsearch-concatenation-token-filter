@@ -18,8 +18,8 @@
 
     <properties>
         <project.build.sourceEncodint>UTF-8</project.build.sourceEncodint>
-        <elasticsearch.version>7.1.1</elasticsearch.version>
-        <lucene.version>8.0.0</lucene.version>
+        <elasticsearch.version>6.6.0</elasticsearch.version>
+        <lucene.version>7.6.0</lucene.version>
         <hamcrest.version>1.3</hamcrest.version>
         <guava.version>19.0</guava.version>
         <tests.output>onerror</tests.output>

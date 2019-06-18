@@ -2,7 +2,7 @@
 
 ## About
 
-Token filter plug-in for combining tokens in Elasticsearh. For ES version 7.1.1
+Token filter plug-in for combining tokens in Elasticsearh. For ES version 6.6.0
 
 ## Build
 
@@ -12,10 +12,10 @@ Get the source code from the repository.
 git clone https://github.com/svanpoeck/elasticsearch-concatenation-token-filter.git
 ```
 
-To get version 7.1.1
+To get version 6.6.0
 
 ```
-git checkout tags/7.1.1 -b 7.1.1
+git checkout tags/6.6.0 -b branch-6.6.0
 ```
 
 To create the package.
